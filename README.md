@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" style="margin: 5px;"/>&nbsp
 </div>
 
-<h4 align="center">Database</h4>
+<h4 align="center">Database</h4>
 <div align="center">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
   <img src="https://img.shields.io/badge/postgresql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>&nbsp
@@ -46,7 +46,7 @@
 </div>
 
 <h4 align="center">📩 Contact</h4>
-<div style="display:flex; flex-direction:row; align-items: center;">
+<div align="center">
     <a href="mailto:ishwuzi@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail">
     </a>
