@@ -23,7 +23,6 @@
 <h4 align="center">BE</h4>
 <div align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" style="margin: 5px;"/>&nbsp
-  <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" style="margin: 5px;"/>&nbsp
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Nest.js-F80000?style=for-the-badge&logo=nest.js&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Spring Boot-22ab40?style=for-the-badge&logo=springboot&logoColor=white"/>&nbsp
