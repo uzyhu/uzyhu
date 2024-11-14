@@ -24,6 +24,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" style="margin: 5px;"/>&nbsp
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Nest.js-F80000?style=for-the-badge&logo=nest.js&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Spring Boot-22ab40?style=for-the-badge&logo=springboot&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" style="margin: 5px;"/>&nbsp
 </div>
@@ -38,11 +39,11 @@
 
 <h4 align="center">Collaboration tools</h4>
 <div align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=openjdk&logoColor=white" style="margin: 5px;"/>&nbsp
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=node.js&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=springboot&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=springboot&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=typescript&logoColor=white" style="margin: 5px;"/>&nbsp
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" style="margin: 5px;"/>&nbsp
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" style="margin: 5px;"/>&nbsp
 </div>
 
 <h4 align="center">📩 Contact</h4>
